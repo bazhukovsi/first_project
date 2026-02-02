@@ -1,1 +1,3 @@
-events.log
+*.log
+logs/*
+!critical_events.log
